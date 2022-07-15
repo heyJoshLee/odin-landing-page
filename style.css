@@ -1,0 +1,54 @@
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+    background-color: #1F2937;
+}
+
+.header-links {
+    display: flex;
+    gap: 10px;
+}
+
+.hero-main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.hero-secondary,
+.header a {
+    font-weight: 18px;
+    color: #E5E7EB;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FaF8;
+}
+
+button {
+    background-color: #3882F6;
+}
+
+.info-header-text {
+    font-weight: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+}
